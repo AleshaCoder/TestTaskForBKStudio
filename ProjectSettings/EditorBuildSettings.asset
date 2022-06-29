@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitialScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CalculatorScene.unity
+    guid: e4dc679293b9ec940ad151add80cc73a
+  - enabled: 1
+    path: Assets/Scenes/ImagesScene.unity
+    guid: 4e0418dbe43248f4987f0546eaa19c07
+  - enabled: 1
+    path: Assets/Scenes/UIScene.unity
+    guid: 0d68012cbcd3fff44acc4f93a6ff3b57
+  - enabled: 1
+    path: Assets/MazeGenerator/GameCubeScene.unity
+    guid: 5f66713930f36f84a865122d99889d76
+  m_configObjects: {}
